@@ -27,13 +27,11 @@
 
 ## 3. 설치 및 실행 방법
 
-본 프로젝트는 **Unsloth Studio가 아니라 Google Colab에서 Unsloth 코드 기반으로 파인튜닝**을 수행하였다.
+본 프로젝트는 Google Colab 환경에서 Unsloth 라이브러리와 수업 저장소의 Colab notebook을 활용하여 파인튜닝을 수행하였다.
 
 본 프로젝트의 Colab 실습 노트북은 아래 경로에 저장하였다.
 
-```text
-notebooks/unsloth_science_term_explainer.ipynb
-```
+`notebooks/unsloth_science_term_explainer.ipynb`
 
 ### 3.1 저장소 클론
 
